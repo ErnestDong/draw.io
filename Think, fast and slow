@@ -1,1 +1,53 @@
-<mxfile host="app.diagrams.net" modified="2021-09-23T07:40:41.067Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.54 Safari/537.36" version="15.3.0" etag="q-wvP8njmF9nyHJlFcE1" type="github"><diagram id="ES81IFBOwpx55f3an-PF">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-09-23T07:45:24.143Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.54 Safari/537.36" etag="8CoUlzSXGQpG1eoLcobL" version="15.3.0" type="github">
+  <diagram id="ES81IFBOwpx55f3an-PF" name="Page-1">
+    <mxGraphModel dx="946" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="aKRyqJF2hYjcnPAwVNfp-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontFamily=Comic Sans MS;" edge="1" parent="1" source="aKRyqJF2hYjcnPAwVNfp-1" target="aKRyqJF2hYjcnPAwVNfp-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aKRyqJF2hYjcnPAwVNfp-1" value="input&lt;br style=&quot;font-size: 16px;&quot;&gt;听、看、闻、吃……" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="130" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aKRyqJF2hYjcnPAwVNfp-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontFamily=Comic Sans MS;" edge="1" parent="1" source="aKRyqJF2hYjcnPAwVNfp-2" target="aKRyqJF2hYjcnPAwVNfp-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aKRyqJF2hYjcnPAwVNfp-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;fontFamily=Comic Sans MS;" edge="1" parent="1" source="aKRyqJF2hYjcnPAwVNfp-2" target="aKRyqJF2hYjcnPAwVNfp-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aKRyqJF2hYjcnPAwVNfp-11" value="懒惰" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontFamily=Comic Sans MS;" vertex="1" connectable="0" parent="aKRyqJF2hYjcnPAwVNfp-6">
+          <mxGeometry x="-0.0894" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aKRyqJF2hYjcnPAwVNfp-12" value="激活" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;fontFamily=Comic Sans MS;" edge="1" parent="1" source="aKRyqJF2hYjcnPAwVNfp-2" target="aKRyqJF2hYjcnPAwVNfp-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aKRyqJF2hYjcnPAwVNfp-2" value="大脑" style="whiteSpace=wrap;html=1;rounded=0;fontSize=16;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="430" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aKRyqJF2hYjcnPAwVNfp-4" value="output&lt;br style=&quot;font-size: 16px;&quot;&gt;决策" style="whiteSpace=wrap;html=1;rounded=0;fontSize=16;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="750" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aKRyqJF2hYjcnPAwVNfp-10" value="影响" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontFamily=Comic Sans MS;" edge="1" parent="1" source="aKRyqJF2hYjcnPAwVNfp-7" target="aKRyqJF2hYjcnPAwVNfp-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aKRyqJF2hYjcnPAwVNfp-7" value="system 1&lt;br style=&quot;font-size: 16px;&quot;&gt;记忆、经验、情感、直觉等" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="310" y="490" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aKRyqJF2hYjcnPAwVNfp-9" value="system 2&lt;br style=&quot;font-size: 16px;&quot;&gt;一本正经地思考问题" style="whiteSpace=wrap;html=1;rounded=0;fontSize=16;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="555" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aKRyqJF2hYjcnPAwVNfp-13" value="快速，省力，可靠" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="310" y="550" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="aKRyqJF2hYjcnPAwVNfp-14" value="需要消耗能量" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="555" y="550" width="110" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
